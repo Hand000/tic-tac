@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Overview
+Basic React Tic-Tac-Toe game scrapped together for a hackajob pathway project. Aiming to refactor and improve the code beyond matching the minimum requirements and work on some graphical changes.
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+>>>>>>> 41545fbfeacc28dd4169465740a1dac3194cd5cc
